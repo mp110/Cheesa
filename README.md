@@ -1,3 +1,0 @@
-# Cheesa
-Cheesa
-.blindbox
